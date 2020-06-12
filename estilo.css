@@ -1,0 +1,58 @@
+*{margin:0;padding:0}
+body{background-color: #f9f8f3}
+header{background-color: #f9f8f3;height:100px;margin-top:30px}
+nav{background-color: #f9f8f3;margin:50px;width:170px;height:860px;float:left;margin-right:50px}
+.EP{height:250px;background-color:#000000;margin-top:30px;color:#d4d2d2}
+article{background-color: #f9f8f3;width:550px;height:860px;float:left;margin:30px;padding:5px;overflow:auto}
+.tweets{margin:10px;margin-top:20px}
+.latesttweets{height:110px;overflow:auto}
+.news{margin:10px}
+.new1{height:95px}
+.new2{height:95px;margin-top:5px}
+.new3{height:95px;margin-top:5px}
+.new4{height:95px;margin-top:5px}
+.new5{height:95px;margin-top:5px}
+.lyrics{height:310px;margin-top:10px;padding:3px}
+.contacts{height:600px;}
+.bbw{height:120px;margin-top:3px}
+.crisis{height:120px;margin-top:3px}
+.each{height:160px;margin-top:3px}
+aside{background-color: #f9f8f3;width:340px;height:860px;float:right;margin:15px;padding:10px}
+.followers{width:300px;height:30px;background-color: #000000;margin:5px;color:#d4d2d2;text-align:left}
+.barra{width:300px;height:10px;background-color: #000000;margin:5px}
+.store{width:300px;height:140px;background-color: #000000;margin:5px;color:#d4d2d2}
+.store2{width:300px;height:120px;background-color: #000000;margin:5px;color:#d4d2d2}
+footer{width:900px;height:100px;text-align:center}
+.escondido{height:300px}
+.escondido2{height:150px}
+.escondido3{height:200px}
+.escondido4{height:150px}
+.escondido5{height:300px}
+.escondido6{height:300px}
+.escondido7{height:150px}
+.show{height:70px;margin-top:3px}
+.show2{height:70px;margin-top:3px;}
+.show3{height:70px;margin-top:3px}
+.show4{height:70px;margin-top:3px}
+.show5{height:70px;margin-top:3px}
+.show6{height:70px;margin-top:3px}
+.show7{height:70px;margin-top:3px}
+.show8{height:70px;margin-top:3px}
+.show9{height:70px;margin-top:3px}
+.show10{height:70px;margin-top:3px}
+.show11{height:70px;margin-top:3px}
+.tweet1{height:60px}
+.tweet2{height:60px;margin-top:2px}
+.tweet3{height:60px;margin-top:2px}
+.tweet4{height:60px;margin-top:2px}
+.tweet5{height:60px;margin-top:2px}
+.tweet6{height:60px;margin-top:2px}
+.tweet7{height:60px;margin-top:2px}
+.tweet8{height:60px;margin-top:2px}
+.tweet9{height:60px;margin-top:2px}
+.follow{height:60px;}
+.more{height:30px}
+.more2{height:30px}
+.more3{height:30px}
+.more4{height:30px}
+.more5{height:30px}
